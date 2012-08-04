@@ -163,7 +163,7 @@ class PostContentActions {
                 continue;
             if (!$tag = get_term_by('name', $tag_name, 'post_tag', ARRAY_A))
                 $tag = wp_insert_term($tag_name, 'post_tag');
-            if (!is_wp_error($cat))
+            if (!is_wp_error($tag))
                 $insert_tag[] = intval($tag['term_id']);
         }
 
