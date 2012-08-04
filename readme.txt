@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Post Content Actions ===
 
 Contributors: viniciusmassuchetto
 Donate link: http://vinicius.soylocoporti.org.br/donate
@@ -15,7 +15,12 @@ Enable a set of shortcodes in the post content to set the post title, slug, cate
 
 Enable a set of shortcodes in the post content to set the post title, slug, categories, tags, custom fields and others. Useful for updating WordPress from platforms that don't fully support it, like e-mail and XMLRPC compatible apps.
 
-Supported shortcodes:
+== Installation ==
+
+*   Download it and put in the `wp-content/plugins` folder.
+*   Enable it in the plugins admin menu.
+
+== Shortcodes ==
 
 *   `[title Some Post Title]`
 *   `[slug some-post-slug]`
@@ -30,21 +35,10 @@ Supported shortcodes:
 *   `[comments on | off]`
 *   `[pingbacks on | off]`
 
-== Installation ==
-
-*   Download it and put in the `wp-content/plugins` folder.
-*   Enable it in the plugins admin menu.
-
-== Frequently Asked Questions ==
-
-Please visit the [plugin page](http://vinicius.soylocoporti.org.br/post-content-actions-wordpress-plugin/).
-
-== Screenshots ==
-
-Please visit the [plugin page](http://vinicius.soylocoporti.org.br/post-content-actions-wordpress-plugin/).
+Please visit the [plugin page](http://vinicius.soylocoporti.org.br/post-content-actions-wordpress-plugin/) for detailed usage information.
 
 == Changelog ==
 
 = 0.01 =
 
-First functional version.
+* First functional version.
