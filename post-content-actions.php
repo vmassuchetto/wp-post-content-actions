@@ -2,11 +2,12 @@
 /*
  * Plugin Name: Post Content Actions
  * Plugin URI: http://vinicius.soylocoporti.org.br/post-content-actions-wordpress-plugin
+ * Version: 0.01
  * Description: Enable a set of shortcodes in the post content to set the post title, slug, categories, tags, custom fields and others. Useful for updating WordPress from platforms that don't fully support it, like e-mail and XMLRPC compatible apps.
  * Author: Vinicius Massuchetto
- * Version: 0.01
  * Author URI: http://vinicius.soylocoporti.org.br
-*/
+ * License: GPLv2
+ */
 
 class PostContentActions {
 
