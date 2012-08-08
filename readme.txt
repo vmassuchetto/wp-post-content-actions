@@ -15,12 +15,7 @@ Enable a set of shortcodes in the post content to set the post title, slug, cate
 
 Enable a set of shortcodes in the post content to set the post title, slug, categories, tags, custom fields and others. Useful for updating WordPress from platforms that don't fully support it, like e-mail and XMLRPC compatible apps.
 
-== Installation ==
-
-*   Download it and put in the `wp-content/plugins` folder.
-*   Enable it in the plugins admin menu.
-
-== Usage ==
+= Supported Shortcodes =
 
 * `[title Some Post Title]`
 * `[slug some-post-slug]`
@@ -34,6 +29,14 @@ Enable a set of shortcodes in the post content to set the post title, slug, cate
 * `[add custom_field field name, field value]`
 * `[comments on | off]`
 * `[pingbacks on | off]`
+
+Please visit the [plugin page](http://vinicius.soylocoporti.org.br/post-content-actions-wordpress-plugin/) for detailed usage information.
+
+== Installation ==
+
+*   Download it and put in the `wp-content/plugins` folder.
+*   Enable it in the plugins admin menu.
+*   Shortcodes are ready to be used in your post content.
 
 Please visit the [plugin page](http://vinicius.soylocoporti.org.br/post-content-actions-wordpress-plugin/) for detailed usage information.
 
